@@ -1,4 +1,12 @@
 # Cryptography-and-Network-Security
+
+**Name:** Souvik Sanyal  
+**ID:** 2011176108  
+**Session:** 2019-20  
+**Department:** Computer Science and Engineering  
+
+
+## 📋 Experiment List
 - Lab work01: Caesar Cipher
 - Lab work02: Polygram Substitution Cipher
 - Lab work03: Transposition Cipher
